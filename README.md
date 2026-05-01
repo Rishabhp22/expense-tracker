@@ -22,6 +22,7 @@ This project was built to practice real-world Python concepts like:
 * ✏️ Edit existing expenses
 * ❌ Delete expenses
 * 🔍 Search by category or date
+* ✔️ Robust input validation (prevents invalid entries)
 * 📊 Monthly summary:
 
   * Total spending
@@ -106,6 +107,24 @@ Expense added.
 
 ---
 
+## 🖥️ Demo
+
+![Demo 1](https://github.com/user-attachments/assets/ad7bca5e-2ad3-41ae-be27-c7631ddc144a)
+
+![Demo 2](https://github.com/user-attachments/assets/a3a97191-2079-4702-a01c-8602dc5968e8)
+
+---
+
+## 🧠 Complexity
+
+This project includes real-world logic like:
+
+* Data aggregation
+* Filtering & searching
+* Monthly analytics
+
+---
+
 ## 📚 What I Learned
 
 * Working with lists and dictionaries in real applications
@@ -122,43 +141,7 @@ Expense added.
 * GUI version (Tkinter or Web app)
 * Database integration (SQLite / MongoDB)
 
-----
-
-## 🎯 Purpose
-
-This project was built to practice real-world Python concepts like:
-- Data handling using lists and dictionaries  
-- File handling using JSON  
-- Input validation and error handling  
-- Designing a CLI-based application  
-
 ---
-
-## 📸 Sample Output
-
-====== PERSONAL EXPENSE TRACKER ======
-1. Add Expense
-2. View Expenses
-3. Total Expense
-4. Filter by Category
-5. Delete Expense
-6. Edit Expense
-7. Search
-8. Monthly Summary
-9. Category Analysis
-10. Exit
-=====================================
-
-Enter your choice: 1
-
-Enter amount: 500
-Enter category: food
-
-1. Enter date manually
-2. Use today's date
-Choose option: 2
-
-Expense added.
 
 ## 👨‍💻 Author
 
