@@ -1,0 +1,42 @@
+[
+    {
+        "amount": 12050.0,
+        "category": "clothes",
+        "date": "04-03-205"
+    },
+    {
+        "amount": 60650.0,
+        "category": "college fees",
+        "date": "04-04-2025"
+    },
+    {
+        "amount": 9500.0,
+        "category": "electricity bill",
+        "date": "25-28-2026"
+    },
+    {
+        "amount": 850.0,
+        "category": "wheat",
+        "date": "29-04-2026"
+    },
+    {
+        "amount": 50000.0,
+        "category": "jwellery",
+        "date": "05-06-2025"
+    },
+    {
+        "amount": 550.0,
+        "category": "atta 10kg",
+        "date": "30-04-2026"
+    },
+    {
+        "amount": 45590.0,
+        "category": "house furniture",
+        "date": "30-04-2026"
+    },
+    {
+        "amount": 500.0,
+        "category": "cloth",
+        "date": "01-05-2026"
+    }
+]
