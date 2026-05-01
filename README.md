@@ -81,7 +81,43 @@ expense-tracker/
 * GUI version (Tkinter or Web app)
 * Database integration (SQLite / MongoDB)
 
+----
+
+## 🎯 Purpose
+
+This project was built to practice real-world Python concepts like:
+- Data handling using lists and dictionaries  
+- File handling using JSON  
+- Input validation and error handling  
+- Designing a CLI-based application  
+
 ---
+
+## 📸 Sample Output
+
+====== PERSONAL EXPENSE TRACKER ======
+1. Add Expense
+2. View Expenses
+3. Total Expense
+4. Filter by Category
+5. Delete Expense
+6. Edit Expense
+7. Search
+8. Monthly Summary
+9. Category Analysis
+10. Exit
+=====================================
+
+Enter your choice: 1
+
+Enter amount: 500
+Enter category: food
+
+1. Enter date manually
+2. Use today's date
+Choose option: 2
+
+Expense added.
 
 ## 👨‍💻 Author
 
