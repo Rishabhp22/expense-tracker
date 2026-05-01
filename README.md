@@ -4,6 +4,17 @@ A command-line based application built using Python to manage and analyze daily 
 
 ---
 
+## 🎯 Purpose
+
+This project was built to practice real-world Python concepts like:
+
+* Data handling using lists and dictionaries
+* File handling using JSON
+* Input validation and error handling
+* Designing a CLI-based application
+
+---
+
 ## 🚀 Features
 
 * ➕ Add new expenses with category and date
@@ -34,7 +45,7 @@ A command-line based application built using Python to manage and analyze daily 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Rishabhp22/expense-tracker.git
 cd expense-tracker
 ```
 
@@ -62,6 +73,36 @@ expense-tracker/
 
 * The `expenses.json` file is used to store data locally.
 * It is excluded from GitHub using `.gitignore` for privacy.
+
+---
+
+## 📸 Sample Output
+
+```
+====== PERSONAL EXPENSE TRACKER ======
+1. Add Expense
+2. View Expenses
+3. Total Expense
+4. Filter by Category
+5. Delete Expense
+6. Edit Expense
+7. Search
+8. Monthly Summary
+9. Category Analysis
+10. Exit
+=====================================
+
+Enter your choice: 1
+
+Enter amount: 500
+Enter category: food
+
+1. Enter date manually
+2. Use today's date
+Choose option: 2
+
+Expense added.
+```
 
 ---
 
